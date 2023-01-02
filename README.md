@@ -15,6 +15,8 @@ Copy [`ProbhatKeyboardLayout.bundle`][p] to `~/Library/Keyboard Layouts/`
 #### install system-wide
 Copy [`ProbhatKeyboardLayout.bundle`][p] to `/Library/Keyboard Layouts/`
 
+You may need to log in and log out of your account to refresh the list of input sources to see and choose Probhat.
+
 #### uninstall
 Remove `ProbhatKeyboardLayout.bundle` from where ever you'd copied it to.
 
